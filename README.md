@@ -1,9 +1,9 @@
 ### Hi there 👋
-### 😄I'm Rhea Dsouza.
-### 👀I'm interested in UI/UX Designing and Web Development.
-### 🌱I'm currently learning Java, C++, C, Python, Html, CSS.
-### 💞I'm looking forward to collaborating.
-### 📫How to reach me: rheadqs@gmail.com
+- 😄I'm Rhea Dsouza.
+- 👀I'm interested in UI/UX Designing and Web Development.
+- 🌱I'm currently learning Java, C++, C, Python, Html, CSS.
+- 💞I'm looking forward to collaborating.
+- 📫How to reach me: rheadqs@gmail.com
 <!--
 **RheaDso/RheaDso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
