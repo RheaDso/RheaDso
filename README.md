@@ -9,4 +9,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RheaDso&theme=github_dark)
 
-
+//GitHub Profile Counter
+![](https://RheaDso.com/ghpvc/?username=RheaDso)
+![](https://RheaDso.com/ghpvc/?username=RheaDso&color=green)
+![](https://RheaDso.com/ghpvc/?username=RheaDso&style=plastic)
