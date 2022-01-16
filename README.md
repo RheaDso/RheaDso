@@ -9,5 +9,5 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RheaDso&theme=github_dark)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=RheaDso&style=flat)
 
